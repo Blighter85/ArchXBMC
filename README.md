@@ -5,7 +5,7 @@ ArchLinux with XBMC
 
 
 * ArchLinux ARM - Version 20140106
-* XBMC - Version 12.3 Frodo7
+* XBMC - Version 12.3 Frodo
 
 Getaktet auf "High"
 =====
