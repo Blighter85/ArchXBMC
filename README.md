@@ -1,4 +1,4 @@
-ArchX
+ArchXBMC
 =====
 
 ArchLinux with XBMC
